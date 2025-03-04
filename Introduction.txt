@@ -1,2 +1,2 @@
 Introduction to Ethernet switching
-<p>Ethernet as a protocol for communication operates at the layer 2 of the OSI model and layer 1 of the TCP/IP model</p>
+<p>Ethernet, as a communication protocol, operates at Layer 2 of the OSI model and Layer 1 of the TCP/IP model. While we will be discussing Ethernet switch operation using the OSI model as our reference, it is important to understand where the Ethernet protocol operates within the universally approved Internet/ Network communication suite, which is TCP/IP.</p>
