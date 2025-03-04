@@ -1,5 +1,5 @@
 # Ethernet-Switching
-🎯Understanding the functionality of a switch and its importance to modern day Networking.<br>
+🎯 Introduction: Understanding the functionality of a switch and its importance to modern day Networking.<br>
 ✈️Switch as a layer two device and switch as a layer 3 device <br>
 🪧ARP Protocol.
- <br> ⭐how the switch MAC address table are formed and why they are important.
+ <br> ⭐How the switch MAC address table are formed and why they are important.
